@@ -2,6 +2,6 @@ streamlit
 tensorflow==2.12.0
 numpy
 pillow
-h5py
 opencv-python-headless
 protobuf
+h5py
